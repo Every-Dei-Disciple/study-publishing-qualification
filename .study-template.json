@@ -1,0 +1,8 @@
+{
+  "templateVersion": 1,
+  "filesSHA256": {
+    "site/render.py": "280307a40878e3c7aecc37c6ef8ad012758060824d8e436d778cf2edc45173ef",
+    "site/article-schema-v1.json": "3df76ee3d03632630f9ee87081475f7fb23b9018a175e6411703c1d5d9e97d17",
+    ".github/workflows/pages.yml": "43995d774ba48d622e8a13f61118d6d35aee48949847733126abe6f285041d75"
+  }
+}
