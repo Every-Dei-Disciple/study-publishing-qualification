@@ -13,5 +13,6 @@
       "title": "GitHub App registration parameters",
       "url": "https://docs.github.com/en/apps/sharing-github-apps/registering-a-github-app-using-url-parameters"
     }
-  ]
+  ],
+  "unsupportedFixtureField": true
 }
