@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "5bfa0c38-d588-4bd8-b2b1-4f37bdc99b24",
+  "slug": "qualification",
+  "title": "Study qualification article",
+  "appearance": "Dark",
+  "paragraphs": [
+    "Initial invented publication fixture. [1]"
+  ],
+  "references": [
+    {
+      "id": 1,
+      "title": "GitHub App registration parameters",
+      "url": "https://docs.github.com/en/apps/sharing-github-apps/registering-a-github-app-using-url-parameters"
+    }
+  ]
+}
